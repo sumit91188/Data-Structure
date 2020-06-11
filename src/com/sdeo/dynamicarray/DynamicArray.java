@@ -129,14 +129,4 @@ public class DynamicArray<T> implements Iterable<T> {
             }
         };
     }
-
-    @Override
-    public void forEach(Consumer<? super T> action) {
-
-    }
-
-    @Override
-    public Spliterator<T> spliterator() {
-        return null;
-    }
 }
