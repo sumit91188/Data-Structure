@@ -81,7 +81,7 @@ public class DoublyLinkedList<T> implements Iterable<T> {
             tail = node;
         }
         size++;
-        node = null; //gor garbage collection
+        node = null; //for garbage collection
     }
 
     public void add(T elem) {

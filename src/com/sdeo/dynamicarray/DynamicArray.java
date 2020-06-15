@@ -1,8 +1,6 @@
 package com.sdeo.dynamicarray;
 
 import java.util.Iterator;
-import java.util.Spliterator;
-import java.util.function.Consumer;
 
 /**
  * @author Sumit Deo
